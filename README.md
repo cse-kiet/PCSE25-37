@@ -1,4 +1,4 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: [Circle Social]
 
 ## Team Members:
 1. Mayank Agarwal
